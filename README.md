@@ -22,7 +22,7 @@ not included in this study, to further study diversity in the film industry.
 * Step 1: Download the IMDb datasets title.ratings.tsv.gz and title.basics.tsv.gz, uncompress, and put in data/raw
 * Step 2: Download the Bechdeltest.com dataset as a .json file and put in data/raw
 * Step 3: Execute data/process_raw_data.R to merge and preprocess datasets
-* Step 4: Execute files in the eda and analysis folder
+* Step 4: Execute files in the eda and analysis folders
 
 ### File Structure
 ```
