@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+/data/raw/getMoviesByTitle.json
+/data/raw/title.basics.tsv
+/data/raw/title.ratings.tsv
+*.Rproj
+.RData
