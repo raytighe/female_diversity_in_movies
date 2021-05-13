@@ -31,7 +31,7 @@ re_movies_4
 │    Diversity in Movies Final Report.pdf
 │
 └───data
-│	 │	process_raw_data.R
+│    │   process_raw_data.R
 │    │
 │    └───processed
 │    │    │ bechdell_imdb_merged.csv
