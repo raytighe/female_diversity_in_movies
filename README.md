@@ -1,7 +1,7 @@
 # Diversity in Movies
 
 ### Description
-This project and report was the final project in the capstone course of the statistics masters program I completed in May of 2021 at George Mason University. In this project, my teammates and I infer which movie characteristics are most associated with passing the Bechdel test, a heuristic for measuring female diversity in movies, based on data from Bechdeltest.com and IMBb.com. 
+This project and report was the final project in the capstone course of the statistics masters program I completed in May of 2021 at George Mason University. In this project, my teammates and I infer which movie characteristics are most associated with passing the Bechdel test, a heuristic for measuring female diversity in movies, based on data from Bechdeltest.com and IMDb.com. 
 
 In this study, we explored the gender diversity of movies based on the Bechdel test. An exploratory analysis
 showed an increasing proportion of movies tend to pass the Bechdel test over the past several decades. Upon a
