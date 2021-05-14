@@ -34,7 +34,8 @@ re_movies_4
 │    │   process_raw_data.R
 │    │
 │    └───processed
-│    │    │ bechdell_imdb_merged.csv
+│    │    │ bechdel_imdb_full.csv
+│    │    │ bechdel_imdb_merged.csv
 │    │
 │    └───raw (raw data files not checked in)
 │         │ title.ratings.tsv
